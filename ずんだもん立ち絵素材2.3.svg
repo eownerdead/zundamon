@@ -4,1293 +4,945 @@
    version="1.1"
    viewBox="0 0 1082 1650"
    width="1082"
-   id="svg1076"
-   sodipodi:docname="ずんだもん立ち絵素材2.3.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   id="svg1182"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1078"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="0.48121212"
-     inkscape:cx="540.30227"
-     inkscape:cy="825"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1076" />
   <defs
-     id="defs622" />
+     id="defs954" />
   <image
      class="psd-layer pixel"
      height="255"
      width="386"
      x="578"
-     xlink:href="images/image626.png"
+     xlink:href="assets/c847f66203ec69b43fafb47aea4bc2ec.png"
      y="555"
-     id="image626">
-    <title
-       id="title624">尻尾的なアレ</title>
-  </image>
+     id="image956" />
   <image
      class="psd-layer pixel"
+     display="none"
      height="457"
-     visibility="hidden"
      width="382"
      x="308"
-     xlink:href="images/image630.png"
+     xlink:href="assets/7b192235a7b2c6e5382aff9ac763353c.png"
      y="217"
-     id="image630">
-    <title
-       id="title628">パーカー裏地</title>
-  </image>
+     id="image958" />
   <g
      class="psd-layer group"
-     visibility="hidden"
-     id="g730">
-    <title
-       id="title632">*服装2</title>
+     display="none"
+     id="g1008">
     <image
        class="psd-layer pixel"
+       display="none"
        height="1412"
-       visibility="hidden"
        width="445"
        x="306"
-       xlink:href="images/image636.png"
+       xlink:href="assets/7e35e69031b939d6e289deafce231cee.png"
        y="167"
-       id="image636">
-      <title
-         id="title634">*素体</title>
-    </image>
+       id="image960" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="1412"
-       visibility="hidden"
        width="445"
        x="306"
-       xlink:href="images/image640.png"
+       xlink:href="assets/81f2b0f31b047178b166c8d352376814.png"
        y="167"
-       id="image640">
-      <title
-         id="title638">*ぱんつ</title>
-    </image>
+       id="image962" />
     <image
        class="psd-layer pixel"
        height="1412"
        width="445"
        x="306"
-       xlink:href="images/image644.png"
+       xlink:href="assets/56784c709f98bd5a6f4311fb41e5c6ad.png"
        y="167"
-       id="image644">
-      <title
-         id="title642">*スク水</title>
-    </image>
+       id="image964" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="1412"
-       visibility="hidden"
        width="445"
        x="306"
-       xlink:href="images/image648.png"
+       xlink:href="assets/c34103d7393cd1e50cce3f7a496a992d.png"
        y="167"
-       id="image648">
-      <title
-         id="title646">*バスタオル</title>
-    </image>
+       id="image966" />
     <g
        class="psd-layer group"
-       id="g688">
-      <title
-         id="title650">!右腕</title>
+       id="g986">
       <image
          class="psd-layer pixel"
+         display="none"
          height="1"
-         visibility="hidden"
          width="1"
          x="0"
-         xlink:href="images/image654.png"
+         xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
          y="0"
-         id="image654">
-        <title
-           id="title652">*(非表示)</title>
-      </image>
+         id="image968" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="241"
-         visibility="hidden"
          width="143"
          x="357"
-         xlink:href="images/image658.png"
+         xlink:href="assets/9bd6a5cb9999dafe5dbaf4797700c060.png"
          y="587"
-         id="image658">
-        <title
-           id="title656">*胸元</title>
-      </image>
+         id="image970" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="320"
-         visibility="hidden"
          width="184"
          x="303"
-         xlink:href="images/image662.png"
+         xlink:href="assets/ffc90fe5d8948c779f376369cd9d18c5.png"
          y="507"
-         id="image662">
-        <title
-           id="title660">*マイク</title>
-      </image>
+         id="image972" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="232"
-         visibility="hidden"
          width="235"
          x="245"
-         xlink:href="images/image666.png"
+         xlink:href="assets/f0a10a131cf567fbbbc0447e0ac5da8d.png"
          y="595"
-         id="image666">
-        <title
-           id="title664">*指差し</title>
-      </image>
+         id="image974" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="252"
-         visibility="hidden"
          width="150"
          x="338"
-         xlink:href="images/image670.png"
+         xlink:href="assets/eb0dda93f70d74f1a4dd73e30469b6b5.png"
          y="547"
-         id="image670">
-        <title
-           id="title668">*苦しむ</title>
-      </image>
+         id="image976" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="264"
-         visibility="hidden"
          width="180"
          x="308"
-         xlink:href="images/image674.png"
+         xlink:href="assets/b2e63626c00f00b7f0300c6590705c18.png"
          y="518"
-         id="image674">
-        <title
-           id="title672">*口元</title>
-      </image>
+         id="image978" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="411"
-         visibility="hidden"
          width="317"
          x="182"
-         xlink:href="images/image678.png"
+         xlink:href="assets/a2a55013824dfcb8800ac97b5faed654.png"
          y="312"
-         id="image678">
-        <title
-           id="title676">*手を挙げる</title>
-      </image>
+         id="image980" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="323"
-         visibility="hidden"
          width="201"
          x="282"
-         xlink:href="images/image682.png"
+         xlink:href="assets/4a94582a76e8ae9814fc6335f1c6bcd0.png"
          y="596"
-         id="image682">
-        <title
-           id="title680">*腰</title>
-      </image>
+         id="image982" />
       <image
          class="psd-layer pixel"
          height="478"
          width="209"
          x="272"
-         xlink:href="images/image686.png"
+         xlink:href="assets/6b7bff865c767f5ca51434b5195496ae.png"
          y="592"
-         id="image686">
-        <title
-           id="title684">*基本</title>
-      </image>
+         id="image984" />
     </g>
     <g
        class="psd-layer group"
-       id="g728">
-      <title
-         id="title690">!左腕</title>
+       id="g1006">
       <image
          class="psd-layer pixel"
+         display="none"
          height="1"
-         visibility="hidden"
          width="1"
          x="0"
-         xlink:href="images/image694.png"
+         xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
          y="0"
-         id="image694">
-        <title
-           id="title692">*(非表示)</title>
-      </image>
+         id="image988" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="286"
-         visibility="hidden"
          width="157"
          x="527"
-         xlink:href="images/image698.png"
+         xlink:href="assets/affc1e7d48c29fee0b062ab6bf774172.png"
          y="478"
-         id="image698">
-        <title
-           id="title696">*ひそひそ</title>
-      </image>
+         id="image990" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="253"
-         visibility="hidden"
          width="150"
          x="533"
-         xlink:href="images/image702.png"
+         xlink:href="assets/86e3fbf40a18d014bbf0fd3a68535b07.png"
          y="591"
-         id="image702">
-        <title
-           id="title700">*胸元</title>
-      </image>
+         id="image992" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="255"
-         visibility="hidden"
          width="200"
          x="470"
-         xlink:href="images/image706.png"
+         xlink:href="assets/0b25621c16c784d221216465d86449cd.png"
          y="534"
-         id="image706">
-        <title
-           id="title704">*考える</title>
-      </image>
+         id="image994" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="240"
-         visibility="hidden"
          width="149"
          x="514"
-         xlink:href="images/image710.png"
+         xlink:href="assets/0f59df43973ef3d0990e71e86a7011c6.png"
          y="554"
-         id="image710">
-        <title
-           id="title708">*苦しむ</title>
-      </image>
+         id="image996" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="257"
-         visibility="hidden"
          width="195"
          x="512"
-         xlink:href="images/image714.png"
+         xlink:href="assets/4e62c30f94a41f9030cd5bbdcbf70ba5.png"
          y="515"
-         id="image714">
-        <title
-           id="title712">*口元</title>
-      </image>
+         id="image998" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="427"
-         visibility="hidden"
          width="301"
          x="575"
-         xlink:href="images/image718.png"
+         xlink:href="assets/bc4f6556a976908bc491fd2b0a56c888.png"
          y="319"
-         id="image718">
-        <title
-           id="title716">*手を挙げる</title>
-      </image>
+         id="image1000" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="324"
-         visibility="hidden"
          width="185"
          x="580"
-         xlink:href="images/image722.png"
+         xlink:href="assets/0c82915dbc09771697f26c45c72b8729.png"
          y="598"
-         id="image722">
-        <title
-           id="title720">*腰</title>
-      </image>
+         id="image1002" />
       <image
          class="psd-layer pixel"
          height="477"
          width="182"
          x="580"
-         xlink:href="images/image726.png"
+         xlink:href="assets/35febabbfadb26861679a606f52df191.png"
          y="595"
-         id="image726">
-        <title
-           id="title724">*基本</title>
-      </image>
+         id="image1004" />
     </g>
   </g>
   <g
      class="psd-layer group"
-     id="g814">
-    <title
-       id="title732">*服装1</title>
+     id="g1050">
     <image
        class="psd-layer pixel"
+       display="none"
        height="1415"
-       visibility="hidden"
        width="445"
        x="306"
-       xlink:href="images/image736.png"
+       xlink:href="assets/64249de3392e4ee447290c49e6fbaa4f.png"
        y="167"
-       id="image736">
-      <title
-         id="title734">*制服</title>
-    </image>
+       id="image1010" />
     <image
        class="psd-layer pixel"
        height="1415"
        width="445"
        x="306"
-       xlink:href="images/image740.png"
+       xlink:href="assets/5e8fa8d6c3f7110d6ffa30243c091bd2.png"
        y="167"
-       id="image740">
-      <title
-         id="title738">*いつもの服</title>
-    </image>
+       id="image1012" />
     <g
        class="psd-layer group"
-       id="g776">
-      <title
-         id="title742">!左腕</title>
+       id="g1030">
       <image
          class="psd-layer pixel"
+         display="none"
          height="1"
-         visibility="hidden"
          width="1"
          x="0"
-         xlink:href="images/image746.png"
+         xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
          y="0"
-         id="image746">
-        <title
-           id="title744">*(非表示)</title>
-      </image>
+         id="image1014" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="286"
-         visibility="hidden"
          width="157"
          x="527"
-         xlink:href="images/image750.png"
+         xlink:href="assets/744367e9e34ce20afbf8e26093b7263d.png"
          y="478"
-         id="image750">
-        <title
-           id="title748">*ひそひそ</title>
-      </image>
+         id="image1016" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="255"
-         visibility="hidden"
          width="205"
          x="470"
-         xlink:href="images/image754.png"
+         xlink:href="assets/58f49e41c7c0c5a64519cad615bfb836.png"
          y="537"
-         id="image754">
-        <title
-           id="title752">*考える</title>
-      </image>
+         id="image1018" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="240"
-         visibility="hidden"
          width="158"
          x="514"
-         xlink:href="images/image758.png"
+         xlink:href="assets/87a5c9f707714e21e3b49d781138e92c.png"
          y="554"
-         id="image758">
-        <title
-           id="title756">*苦しむ</title>
-      </image>
+         id="image1020" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="257"
-         visibility="hidden"
          width="195"
          x="512"
-         xlink:href="images/image762.png"
+         xlink:href="assets/c573556f4087159df433de1f76003e49.png"
          y="518"
-         id="image762">
-        <title
-           id="title760">*口元</title>
-      </image>
+         id="image1022" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="457"
-         visibility="hidden"
          width="291"
          x="585"
-         xlink:href="images/image766.png"
+         xlink:href="assets/ccad1c87ad5bc33968bd76bfb781d035.png"
          y="322"
-         id="image766">
-        <title
-           id="title764">*手を挙げる</title>
-      </image>
+         id="image1024" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="332"
-         visibility="hidden"
          width="182"
          x="583"
-         xlink:href="images/image770.png"
+         xlink:href="assets/45c1a4ddef7609aec7a4912fb2855ec4.png"
          y="593"
-         id="image770">
-        <title
-           id="title768">*腰</title>
-      </image>
+         id="image1026" />
       <image
          class="psd-layer pixel"
          height="475"
          width="171"
          x="591"
-         xlink:href="images/image774.png"
+         xlink:href="assets/159a5b58e40cc3613f7def8d5ca1cfa2.png"
          y="600"
-         id="image774">
-        <title
-           id="title772">*基本</title>
-      </image>
+         id="image1028" />
     </g>
     <g
        class="psd-layer group"
-       id="g812">
-      <title
-         id="title778">!右腕</title>
+       id="g1048">
       <image
          class="psd-layer pixel"
+         display="none"
          height="1"
-         visibility="hidden"
          width="1"
          x="0"
-         xlink:href="images/image782.png"
+         xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
          y="0"
-         id="image782">
-        <title
-           id="title780">*(非表示)</title>
-      </image>
+         id="image1032" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="320"
-         visibility="hidden"
          width="168"
          x="303"
-         xlink:href="images/image786.png"
+         xlink:href="assets/c9fea02cff0a4a4a92738a51b1adf524.png"
          y="507"
-         id="image786">
-        <title
-           id="title784">*マイク</title>
-      </image>
+         id="image1034" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="237"
-         visibility="hidden"
          width="226"
          x="244"
-         xlink:href="images/image790.png"
+         xlink:href="assets/9e7169ab505128183e4225e3b17a3b53.png"
          y="593"
-         id="image790">
-        <title
-           id="title788">*指差し</title>
-      </image>
+         id="image1036" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="252"
-         visibility="hidden"
          width="150"
          x="338"
-         xlink:href="images/image794.png"
+         xlink:href="assets/eb0dda93f70d74f1a4dd73e30469b6b5.png"
          y="547"
-         id="image794">
-        <title
-           id="title792">*苦しむ</title>
-      </image>
+         id="image1038" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="264"
-         visibility="hidden"
          width="177"
          x="307"
-         xlink:href="images/image798.png"
+         xlink:href="assets/7d761a3baeaf452cfcba82d72eba439b.png"
          y="521"
-         id="image798">
-        <title
-           id="title796">*口元</title>
-      </image>
+         id="image1040" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="451"
-         visibility="hidden"
          width="292"
          x="181"
-         xlink:href="images/image802.png"
+         xlink:href="assets/03e274a0451ead02523818d9f8287425.png"
          y="315"
-         id="image802">
-        <title
-           id="title800">*手を挙げる</title>
-      </image>
+         id="image1042" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="326"
-         visibility="hidden"
          width="194"
          x="281"
-         xlink:href="images/image806.png"
+         xlink:href="assets/c21eff60f3bc3ac2c508f3d9a6a32d83.png"
          y="596"
-         id="image806">
-        <title
-           id="title804">*腰</title>
-      </image>
+         id="image1044" />
       <image
          class="psd-layer pixel"
          height="474"
          width="202"
          x="271"
-         xlink:href="images/image810.png"
+         xlink:href="assets/da210b48cc3def32d3f863b813204741.png"
          y="599"
-         id="image810">
-        <title
-           id="title808">*基本</title>
-      </image>
+         id="image1046" />
     </g>
   </g>
   <g
      class="psd-layer group"
-     id="g870">
-    <title
-       id="title816">!口</title>
+     id="g1078">
     <image
        class="psd-layer pixel"
        height="61"
        width="66"
        x="460"
-       xlink:href="images/image820.png"
+       xlink:href="assets/e1fe30a520521a6e4c80360f1f3f599b.png"
        y="474"
-       id="image820">
-      <title
-         id="title818">*ほあー</title>
-    </image>
+       id="image1052" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="44"
-       visibility="hidden"
        width="60"
        x="466"
-       xlink:href="images/image824.png"
+       xlink:href="assets/4306a3c7302f5300b9e439c853f327eb.png"
        y="483"
-       id="image824">
-      <title
-         id="title822">*ほあ</title>
-    </image>
+       id="image1054" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="39"
-       visibility="hidden"
        width="51"
        x="467"
-       xlink:href="images/image828.png"
+       xlink:href="assets/89ee49f286bce62122b8cea2919e02a2.png"
        y="484"
-       id="image828">
-      <title
-         id="title826">*ほー</title>
-    </image>
+       id="image1056" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="16"
-       visibility="hidden"
        width="58"
        x="466"
-       xlink:href="images/image832.png"
+       xlink:href="assets/3b76127118c4f517c368b7dc6a2b7913.png"
        y="496"
-       id="image832">
-      <title
-         id="title830">*むふ</title>
-    </image>
+       id="image1058" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="38"
-       visibility="hidden"
        width="37"
        x="478"
-       xlink:href="images/image836.png"
+       xlink:href="assets/a954ea6bdc4574ead0ee4be73aada79a.png"
        y="480"
-       id="image836">
-      <title
-         id="title834">*△</title>
-    </image>
+       id="image1060" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="48"
-       visibility="hidden"
        width="77"
        x="460"
-       xlink:href="images/image840.png"
+       xlink:href="assets/8f16568ea5458f51e710b5fe31c75f2e.png"
        y="482"
-       id="image840">
-      <title
-         id="title838">*んあー</title>
-    </image>
+       id="image1062" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="30"
-       visibility="hidden"
        width="71"
        x="462"
-       xlink:href="images/image844.png"
+       xlink:href="assets/6d287a9ada8d338c9541a4e4f00c5017.png"
        y="497"
-       id="image844">
-      <title
-         id="title842">*んへー</title>
-    </image>
+       id="image1064" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="15"
-       visibility="hidden"
        width="68"
        x="463"
-       xlink:href="images/image848.png"
+       xlink:href="assets/e6ca81a1b6d31f713d661fabd1f7a07f.png"
        y="504"
-       id="image848">
-      <title
-         id="title846">*んー</title>
-    </image>
+       id="image1066" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="43"
-       visibility="hidden"
        width="56"
        x="472"
-       xlink:href="images/image852.png"
+       xlink:href="assets/1b6f8088e22ebc47a131d539f854e4f2.png"
        y="485"
-       id="image852">
-      <title
-         id="title850">*はへえ</title>
-    </image>
+       id="image1068" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="61"
-       visibility="hidden"
        width="55"
        x="473"
-       xlink:href="images/image856.png"
+       xlink:href="assets/080e82b23e40adf5c6f736f3e460f4c6.png"
        y="477"
-       id="image856">
-      <title
-         id="title854">*おほお</title>
-    </image>
+       id="image1070" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="39"
-       visibility="hidden"
        width="33"
        x="480"
-       xlink:href="images/image860.png"
+       xlink:href="assets/50f129ce2879d87b241c41a921f88f21.png"
        y="487"
-       id="image860">
-      <title
-         id="title858">*お</title>
-    </image>
+       id="image1072" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="28"
-       visibility="hidden"
        width="25"
        x="476"
-       xlink:href="images/image864.png"
+       xlink:href="assets/2a8850dd43fde3d4ba8f0b21be9e74cb.png"
        y="488"
-       id="image864">
-      <title
-         id="title862">*ゆ</title>
-    </image>
+       id="image1074" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="29"
-       visibility="hidden"
        width="43"
        x="475"
-       xlink:href="images/image868.png"
+       xlink:href="assets/261ef0ddefc8082370c43e30e4e16c2d.png"
        y="483"
-       id="image868">
-      <title
-         id="title866">*むー</title>
-    </image>
+       id="image1076" />
   </g>
   <g
      class="psd-layer group"
-     id="g898">
-    <title
-       id="title872">!顔色</title>
+     id="g1092">
     <image
        class="psd-layer pixel"
+       display="none"
        height="150"
-       visibility="hidden"
        width="276"
        x="362"
-       xlink:href="images/image876.png"
+       xlink:href="assets/78b66d7bb5538901d1694c02d2ac7889.png"
        y="282"
-       id="image876">
-      <title
-         id="title874">かげり</title>
-    </image>
+       id="image1080" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="1"
-       visibility="hidden"
        width="1"
        x="0"
-       xlink:href="images/image880.png"
+       xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
        y="0"
-       id="image880">
-      <title
-         id="title878">*(非表示)</title>
-    </image>
+       id="image1082" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="132"
-       visibility="hidden"
        width="300"
        x="345"
-       xlink:href="images/image884.png"
+       xlink:href="assets/ff76529c9c17aeae9d3bb367fb13b452.png"
        y="376"
-       id="image884">
-      <title
-         id="title882">*青ざめ</title>
-    </image>
+       id="image1084" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="146"
-       visibility="hidden"
        width="283"
        x="357"
-       xlink:href="images/image888.png"
+       xlink:href="assets/4c16de132c2318c4568434dfad3729f4.png"
        y="382"
-       id="image888">
-      <title
-         id="title886">*ほっぺ赤め</title>
-    </image>
+       id="image1086" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="101"
-       visibility="hidden"
        width="279"
        x="362"
-       xlink:href="images/image892.png"
+       xlink:href="assets/a1b332c0c92c5423c7c3f7974bd93b19.png"
        y="413"
-       id="image892">
-      <title
-         id="title890">*ほっぺ2</title>
-    </image>
+       id="image1088" />
     <image
        class="psd-layer pixel"
        height="51"
        width="271"
        x="363"
-       xlink:href="images/image896.png"
+       xlink:href="assets/e1513599be2085662e3748796725b3ae.png"
        y="433"
-       id="image896">
-      <title
-         id="title894">*ほっぺ</title>
-    </image>
+       id="image1090" />
   </g>
   <g
      class="psd-layer group"
-     id="g1010">
-    <title
-       id="title900">!目</title>
+     id="g1148">
     <image
        class="psd-layer pixel"
+       display="none"
        height="84"
-       visibility="hidden"
        width="216"
        x="380"
-       xlink:href="images/image904.png"
+       xlink:href="assets/822038f159db115ec22f39e4270754a1.png"
        y="367"
-       id="image904">
-      <title
-         id="title902">*ぐるぐる</title>
-    </image>
+       id="image1094" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="84"
-       visibility="hidden"
        width="218"
        x="382"
-       xlink:href="images/image908.png"
+       xlink:href="assets/169da5cde58c9454f9fa1d41f1c599b1.png"
        y="372"
-       id="image908">
-      <title
-         id="title906">*〇〇</title>
-    </image>
+       id="image1096" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="85"
-       visibility="hidden"
        width="234"
        x="373"
-       xlink:href="images/image912.png"
+       xlink:href="assets/33ef04d228487faa657dd33479e41764.png"
        y="372"
-       id="image912">
-      <title
-         id="title910">*&gt;&lt;</title>
-    </image>
+       id="image1098" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="44"
-       visibility="hidden"
        width="224"
        x="380"
-       xlink:href="images/image916.png"
+       xlink:href="assets/43c8d41057b991f8d0063eb2a13c0194.png"
        y="408"
-       id="image916">
-      <title
-         id="title914">*UU</title>
-    </image>
+       id="image1100" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="48"
-       visibility="hidden"
        width="222"
        x="379"
-       xlink:href="images/image920.png"
+       xlink:href="assets/df6e748b11ed665c7937695febee8b4c.png"
        y="396"
-       id="image920">
-      <title
-         id="title918">*にっこり2</title>
-    </image>
+       id="image1102" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="33"
-       visibility="hidden"
        width="231"
        x="376"
-       xlink:href="images/image924.png"
+       xlink:href="assets/bf75b6138f4546758936012e83c006f3.png"
        y="406"
-       id="image924">
-      <title
-         id="title922">*にっこり</title>
-    </image>
+       id="image1104" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="40"
-       visibility="hidden"
        width="227"
        x="378"
-       xlink:href="images/image928.png"
+       xlink:href="assets/7b4a8ed18b6a771cefb1508d94ed62c4.png"
        y="397"
-       id="image928">
-      <title
-         id="title926">*なごみ目</title>
-    </image>
+       id="image1106" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="83"
-       visibility="hidden"
        width="247"
        x="364"
-       xlink:href="images/image932.png"
+       xlink:href="assets/ff60976f2ee2f27174d887433d4d7d2f.png"
        y="369"
-       id="image932">
-      <title
-         id="title930">*ジト目</title>
-    </image>
+       id="image1108" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="72"
-       visibility="hidden"
        width="250"
        x="368"
-       xlink:href="images/image936.png"
+       xlink:href="assets/692d02795963bda8d521889efd3a1ed0.png"
        y="372"
-       id="image936">
-      <title
-         id="title934">*細め目</title>
-    </image>
+       id="image1110" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="72"
-       visibility="hidden"
        width="250"
        x="368"
-       xlink:href="images/image940.png"
+       xlink:href="assets/dac16451491e049fbe0526d60d1aec31.png"
        y="372"
-       id="image940">
-      <title
-         id="title938">*細め目ハート</title>
-    </image>
+       id="image1112" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="110"
-       visibility="hidden"
        width="249"
        x="367"
-       xlink:href="images/image944.png"
+       xlink:href="assets/237619513a8c4773568b4472f60de821.png"
        y="348"
-       id="image944">
-      <title
-         id="title942">*上向き3</title>
-    </image>
+       id="image1114" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="110"
-       visibility="hidden"
        width="249"
        x="367"
-       xlink:href="images/image948.png"
+       xlink:href="assets/5f25f8211e90ba9ed62093a268de6f8e.png"
        y="348"
-       id="image948">
-      <title
-         id="title946">*上向き2</title>
-    </image>
+       id="image1116" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="110"
-       visibility="hidden"
        width="249"
        x="367"
-       xlink:href="images/image952.png"
+       xlink:href="assets/afb54cca052c538924549e01a8c7cb12.png"
        y="348"
-       id="image952">
-      <title
-         id="title950">*上向き</title>
-    </image>
+       id="image1118" />
     <g
        class="psd-layer group"
-       id="g1008">
-      <title
-         id="title954">*目セット</title>
+       id="g1146">
       <image
          class="psd-layer pixel"
+         display="none"
          height="118"
-         visibility="hidden"
          width="249"
          x="367"
-         xlink:href="images/image958.png"
+         xlink:href="assets/08922bd34120fbfe98137896217a7271.png"
          y="348"
-         id="image958">
-        <title
-           id="title956">*見開き白目</title>
-      </image>
+         id="image1120" />
       <image
          class="psd-layer pixel"
+         display="none"
          height="106"
-         visibility="hidden"
          width="256"
          x="363"
-         xlink:href="images/image962.png"
+         xlink:href="assets/e44624f076df9f2393bc3a93af133a92.png"
          y="352"
-         id="image962">
-        <title
-           id="title960">*ジト白目</title>
-      </image>
+         id="image1122" />
       <image
          class="psd-layer pixel"
          height="107"
          width="250"
          x="366"
-         xlink:href="images/image966.png"
+         xlink:href="assets/709db1efbc83e67273e0f440c8b1973e.png"
          y="351"
-         id="image966">
-        <title
-           id="title964">*普通白目</title>
-      </image>
+         id="image1124" />
       <g
          class="psd-layer group"
-         id="g1006">
-        <title
-           id="title968">!黒目</title>
+         id="g1144">
         <image
            class="psd-layer pixel"
+           display="none"
            height="83"
-           visibility="hidden"
            width="211"
            x="380"
-           xlink:href="images/image972.png"
+           xlink:href="assets/a19cb0d5f7777d6da6a9298845dce810.png"
            y="372"
-           id="image972">
-          <title
-             id="title970">*目逸らし3</title>
-        </image>
+           id="image1126" />
         <image
            class="psd-layer pixel"
+           display="none"
            height="83"
-           visibility="hidden"
            width="211"
            x="380"
-           xlink:href="images/image976.png"
+           xlink:href="assets/ae904af1d11237499511cb59fbd1afa5.png"
            y="372"
-           id="image976">
-          <title
-             id="title974">*目逸らし2</title>
-        </image>
+           id="image1128" />
         <image
            class="psd-layer pixel"
+           display="none"
            height="83"
-           visibility="hidden"
            width="211"
            x="380"
-           xlink:href="images/image980.png"
+           xlink:href="assets/5e56a8aa42ec73f513d6060d778229aa.png"
            y="372"
-           id="image980">
-          <title
-             id="title978">*目逸らし</title>
-        </image>
+           id="image1130" />
         <image
            class="psd-layer pixel"
+           display="none"
            height="83"
-           visibility="hidden"
            width="212"
            x="391"
-           xlink:href="images/image984.png"
+           xlink:href="assets/a20940b8695ac218ddd6d4caf03a8507.png"
            y="372"
-           id="image984">
-          <title
-             id="title982">*カメラ目線3</title>
-        </image>
+           id="image1132" />
         <image
            class="psd-layer pixel"
+           display="none"
            height="83"
-           visibility="hidden"
            width="212"
            x="391"
-           xlink:href="images/image988.png"
+           xlink:href="assets/3afe20aa440464a778d449daa2f46dc5.png"
            y="372"
-           id="image988">
-          <title
-             id="title986">*カメラ目線2</title>
-        </image>
+           id="image1134" />
         <image
            class="psd-layer pixel"
+           display="none"
            height="83"
-           visibility="hidden"
            width="212"
            x="391"
-           xlink:href="images/image992.png"
+           xlink:href="assets/2859a0a675c21be3277e1529195cf8d1.png"
            y="372"
-           id="image992">
-          <title
-             id="title990">*カメラ目線</title>
-        </image>
+           id="image1136" />
         <image
            class="psd-layer pixel"
+           display="none"
            height="83"
-           visibility="hidden"
            width="207"
            x="388"
-           xlink:href="images/image996.png"
+           xlink:href="assets/d51808e90b0f7ab74d88a70409011fb8.png"
            y="372"
-           id="image996">
-          <title
-             id="title994">*普通目3</title>
-        </image>
+           id="image1138" />
         <image
            class="psd-layer pixel"
+           display="none"
            height="83"
-           visibility="hidden"
            width="207"
            x="388"
-           xlink:href="images/image1000.png"
+           xlink:href="assets/7938771466b537d85ec5b08f1b6f2bd1.png"
            y="372"
-           id="image1000">
-          <title
-             id="title998">*普通目2</title>
-        </image>
+           id="image1140" />
         <image
            class="psd-layer pixel"
            height="83"
            width="207"
            x="388"
-           xlink:href="images/image1004.png"
+           xlink:href="assets/2f302e847f4c2f35c13d6beec53c9880.png"
            y="372"
-           id="image1004">
-          <title
-             id="title1002">*普通目</title>
-        </image>
+           id="image1142" />
       </g>
     </g>
   </g>
   <g
      class="psd-layer group"
-     id="g1034">
-    <title
-       id="title1012">!眉</title>
+     id="g1160">
     <image
        class="psd-layer pixel"
+       display="none"
        height="48"
-       visibility="hidden"
        width="209"
        x="388"
-       xlink:href="images/image1016.png"
+       xlink:href="assets/bc99c934f9eb5bc1313aad810a82b031.png"
        y="281"
-       id="image1016">
-      <title
-         id="title1014">*困り眉2</title>
-    </image>
+       id="image1150" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="24"
-       visibility="hidden"
        width="245"
        x="364"
-       xlink:href="images/image1020.png"
+       xlink:href="assets/945e0a0e6f675148e7338af33afb0a50.png"
        y="316"
-       id="image1020">
-      <title
-         id="title1018">*困り眉1</title>
-    </image>
+       id="image1152" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="40"
-       visibility="hidden"
        width="215"
        x="386"
-       xlink:href="images/image1024.png"
+       xlink:href="assets/189b793ea32288f72008ebffb34e0f1c.png"
        y="293"
-       id="image1024">
-      <title
-         id="title1022">*上がり眉</title>
-    </image>
+       id="image1154" />
     <image
        class="psd-layer pixel"
        height="45"
        width="209"
        x="386"
-       xlink:href="images/image1028.png"
+       xlink:href="assets/0893f4c06ef76885d009e7ef7aa8f4ce.png"
        y="285"
-       id="image1028">
-      <title
-         id="title1026">*怒り眉</title>
-    </image>
+       id="image1156" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="18"
-       visibility="hidden"
        width="216"
        x="383"
-       xlink:href="images/image1032.png"
+       xlink:href="assets/0fc1be1cd741924d0c67e6925d24b106.png"
        y="305"
-       id="image1032">
-      <title
-         id="title1030">*普通眉</title>
-    </image>
+       id="image1158" />
   </g>
   <g
      class="psd-layer group"
-     id="g1050">
-    <title
-       id="title1036">!枝豆</title>
+     id="g1168">
     <image
        class="psd-layer pixel"
+       display="none"
        height="359"
-       visibility="hidden"
        width="580"
        x="235"
-       xlink:href="images/image1040.png"
+       xlink:href="assets/a14921684091145b4072889364ad96fb.png"
        y="166"
-       id="image1040">
-      <title
-         id="title1038">*枝豆萎え</title>
-    </image>
+       id="image1162" />
     <image
        class="psd-layer pixel"
        height="423"
        width="549"
        x="258"
-       xlink:href="images/image1044.png"
+       xlink:href="assets/d99fc22ef2053643a012e5f12abab495.png"
        y="109"
-       id="image1044">
-      <title
-         id="title1042">*枝豆通常</title>
-    </image>
+       id="image1164" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="930"
-       visibility="hidden"
        width="538"
        x="249"
-       xlink:href="images/image1048.png"
+       xlink:href="assets/a0f82b9dff30cd6407c9a46170a01970.png"
        y="161"
-       id="image1048">
-      <title
-         id="title1046">*パーカー(裏地とセットで使用)</title>
-    </image>
+       id="image1166" />
   </g>
   <g
      class="psd-layer group"
-     id="g1074">
-    <title
-       id="title1052">記号など</title>
+     id="g1180">
     <image
        class="psd-layer pixel"
+       display="none"
        height="29"
-       visibility="hidden"
        width="26"
        x="542"
-       xlink:href="images/image1056.png"
+       xlink:href="assets/a4d11d07f08ebfeb794559e2e6e38d84.png"
        y="522"
-       id="image1056">
-      <title
-         id="title1054">汗3</title>
-    </image>
+       id="image1170" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="24"
-       visibility="hidden"
        width="20"
        x="397"
-       xlink:href="images/image1060.png"
+       xlink:href="assets/92ae813fe781a15f7795eb6570d08d8a.png"
        y="487"
-       id="image1060">
-      <title
-         id="title1058">汗2</title>
-    </image>
+       id="image1172" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="26"
-       visibility="hidden"
        width="23"
        x="625"
-       xlink:href="images/image1064.png"
+       xlink:href="assets/554653bb28286abecb5a59c79a648957.png"
        y="345"
-       id="image1064">
-      <title
-         id="title1062">汗1</title>
-    </image>
+       id="image1174" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="29"
-       visibility="hidden"
        width="239"
        x="373"
-       xlink:href="images/image1068.png"
+       xlink:href="assets/c099bc09699a6501b60cb94a456fd04f.png"
        y="439"
-       id="image1068">
-      <title
-         id="title1066">涙</title>
-    </image>
+       id="image1176" />
     <image
        class="psd-layer pixel"
+       display="none"
        height="116"
-       visibility="hidden"
        width="158"
        x="435"
-       xlink:href="images/image1072.png"
+       xlink:href="assets/780f960dd3dbb44d3a6c2bc1c12169b8.png"
        y="87"
-       id="image1072">
-      <title
-         id="title1070">アヒルちゃん</title>
-    </image>
+       id="image1178" />
   </g>
 </svg>
