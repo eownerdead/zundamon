@@ -4,945 +4,954 @@
    version="1.1"
    viewBox="0 0 1082 1650"
    width="1082"
-   id="svg1182"
+   id="zundamon"
+   sodipodi:docname="ずんだもん立ち絵素材2.3.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs954" />
   <image
-     class="psd-layer pixel"
      height="255"
+     inkscape:label="尻尾的なアレ"
      width="386"
      x="578"
-     xlink:href="assets/c847f66203ec69b43fafb47aea4bc2ec.png"
+     xlink:href="assets/tail.png"
      y="555"
-     id="image956" />
+     id="tail" />
   <image
-     class="psd-layer pixel"
      display="none"
      height="457"
+     inkscape:label="パーカー裏地"
      width="382"
      x="308"
-     xlink:href="assets/7b192235a7b2c6e5382aff9ac763353c.png"
+     xlink:href="assets/hoodie-lining.png"
      y="217"
-     id="image958" />
+     id="hoodie-lining" />
   <g
-     class="psd-layer group"
      display="none"
-     id="g1008">
+     inkscape:groupmode="layer"
+     inkscape:label="*服装2"
+     id="clothes2">
     <image
-       class="psd-layer pixel"
        display="none"
        height="1412"
+       inkscape:label="*素体"
        width="445"
        x="306"
-       xlink:href="assets/7e35e69031b939d6e289deafce231cee.png"
+       xlink:href="assets/clothes2-naked.png"
        y="167"
-       id="image960" />
+       id="clothes2-naked" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="1412"
+       inkscape:label="*ぱんつ"
        width="445"
        x="306"
-       xlink:href="assets/81f2b0f31b047178b166c8d352376814.png"
+       xlink:href="assets/clothes2-underpants.png"
        y="167"
-       id="image962" />
+       id="clothes2-underpants" />
     <image
-       class="psd-layer pixel"
        height="1412"
+       inkscape:label="*スク水"
        width="445"
        x="306"
-       xlink:href="assets/56784c709f98bd5a6f4311fb41e5c6ad.png"
+       xlink:href="assets/clothes2-swimwear.png"
        y="167"
-       id="image964" />
+       id="clothes2-swimwear"
+       style="display:inline" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="1412"
+       inkscape:label="*バスタオル"
        width="445"
        x="306"
-       xlink:href="assets/c34103d7393cd1e50cce3f7a496a992d.png"
+       xlink:href="assets/clothes2-bath-towel.png"
        y="167"
-       id="image966" />
+       id="clothes2-bath-towel" />
     <g
-       class="psd-layer group"
-       id="g986">
+       inkscape:groupmode="layer"
+       inkscape:label="!右腕"
+       id="clothes2-rarm">
       <image
-         class="psd-layer pixel"
          display="none"
-         height="1"
-         width="1"
-         x="0"
-         xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
-         y="0"
-         id="image968" />
+         inkscape:label="*(非表示)"
+         id="clothes2-rarm-none" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="241"
+         inkscape:label="*胸元"
          width="143"
          x="357"
-         xlink:href="assets/9bd6a5cb9999dafe5dbaf4797700c060.png"
+         xlink:href="assets/clothes2-rarm-on-chest.png"
          y="587"
-         id="image970" />
+         id="clothes2-rarm-on-chest" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="320"
+         inkscape:label="*マイク"
          width="184"
          x="303"
-         xlink:href="assets/ffc90fe5d8948c779f376369cd9d18c5.png"
+         xlink:href="assets/clothes2-rarm-with-microphone.png"
          y="507"
-         id="image972" />
+         id="clothes2-rarm-with-microphone" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="232"
+         inkscape:label="*指差し"
          width="235"
          x="245"
-         xlink:href="assets/f0a10a131cf567fbbbc0447e0ac5da8d.png"
+         xlink:href="assets/clothes2-rarm-pointing.png"
          y="595"
-         id="image974" />
+         id="clothes2-rarm-pointing" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="252"
+         inkscape:label="*苦しむ"
          width="150"
          x="338"
-         xlink:href="assets/eb0dda93f70d74f1a4dd73e30469b6b5.png"
+         xlink:href="assets/clothes2-rarm-distressed.png"
          y="547"
-         id="image976" />
+         id="clothes2-rarm-distressed" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="264"
+         inkscape:label="*口元"
          width="180"
          x="308"
-         xlink:href="assets/b2e63626c00f00b7f0300c6590705c18.png"
+         xlink:href="assets/clothes2-rarm-near-mouse.png"
          y="518"
-         id="image978" />
+         id="clothes2-rarm-near-mouse" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="411"
+         inkscape:label="*手を挙げる"
          width="317"
          x="182"
-         xlink:href="assets/a2a55013824dfcb8800ac97b5faed654.png"
+         xlink:href="assets/clothes2-rarm-raised.png"
          y="312"
-         id="image980" />
+         id="clothes2-rarm-raised" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="323"
+         inkscape:label="*腰"
          width="201"
          x="282"
-         xlink:href="assets/4a94582a76e8ae9814fc6335f1c6bcd0.png"
+         xlink:href="assets/clothes2-rarm-on-hips.png"
          y="596"
-         id="image982" />
+         id="clothes2-rarm-on-hips" />
       <image
-         class="psd-layer pixel"
          height="478"
+         inkscape:label="*基本"
          width="209"
          x="272"
-         xlink:href="assets/6b7bff865c767f5ca51434b5195496ae.png"
+         xlink:href="assets/clothes2-rarm-normal.png"
          y="592"
-         id="image984" />
+         id="clothes2-rarm-normal" />
     </g>
     <g
-       class="psd-layer group"
-       id="g1006">
+       inkscape:groupmode="layer"
+       inkscape:label="!左腕"
+       id="clothes2-larm">
       <image
-         class="psd-layer pixel"
          display="none"
-         height="1"
-         width="1"
-         x="0"
-         xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
-         y="0"
-         id="image988" />
+         inkscape:label="*(非表示)"
+         id="larm-none" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="286"
+         inkscape:label="*ひそひそ"
          width="157"
          x="527"
-         xlink:href="assets/affc1e7d48c29fee0b062ab6bf774172.png"
+         xlink:href="assets/clothes2-larm-whispering.png"
          y="478"
-         id="image990" />
+         id="clothes2-larm-whispering" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="253"
+         inkscape:label="*胸元"
          width="150"
          x="533"
-         xlink:href="assets/86e3fbf40a18d014bbf0fd3a68535b07.png"
+         xlink:href="assets/clothes2-larm-on-chest.png"
          y="591"
-         id="image992" />
+         id="clothes2-larm-on-chest" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="255"
+         inkscape:label="*考える"
          width="200"
          x="470"
-         xlink:href="assets/0b25621c16c784d221216465d86449cd.png"
+         xlink:href="assets/clothes2-larm-thinking.png"
          y="534"
-         id="image994" />
+         id="clothes2-larm-thinking" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="240"
+         inkscape:label="*苦しむ"
          width="149"
          x="514"
-         xlink:href="assets/0f59df43973ef3d0990e71e86a7011c6.png"
+         xlink:href="assets/clothes2-larm-distressed.png"
          y="554"
-         id="image996" />
+         id="clothes2-larm-distressed" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="257"
+         inkscape:label="*口元"
          width="195"
          x="512"
-         xlink:href="assets/4e62c30f94a41f9030cd5bbdcbf70ba5.png"
+         xlink:href="assets/clothes2-larm-near-mouse.png"
          y="515"
-         id="image998" />
+         id="clothes2-larm-near-mouse" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="427"
+         inkscape:label="*手を挙げる"
          width="301"
          x="575"
-         xlink:href="assets/bc4f6556a976908bc491fd2b0a56c888.png"
+         xlink:href="assets/clothes2-larm-raised.png"
          y="319"
-         id="image1000" />
+         id="clothes2-larm-raised" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="324"
+         inkscape:label="*腰"
          width="185"
          x="580"
-         xlink:href="assets/0c82915dbc09771697f26c45c72b8729.png"
+         xlink:href="assets/clothes2-larm-on-hips.png"
          y="598"
-         id="image1002" />
+         id="clothes2-larm-on-hips" />
       <image
-         class="psd-layer pixel"
          height="477"
+         inkscape:label="*基本"
          width="182"
          x="580"
-         xlink:href="assets/35febabbfadb26861679a606f52df191.png"
+         xlink:href="assets/clothes2-larm-normal.png"
          y="595"
-         id="image1004" />
+         id="clothes2-larm-normal" />
     </g>
   </g>
   <g
-     class="psd-layer group"
-     id="g1050">
+     inkscape:groupmode="layer"
+     inkscape:label="*服装1"
+     id="clothes1"
+     style="display:inline">
     <image
-       class="psd-layer pixel"
        display="none"
        height="1415"
+       inkscape:label="*制服"
        width="445"
        x="306"
-       xlink:href="assets/64249de3392e4ee447290c49e6fbaa4f.png"
+       xlink:href="assets/clothes1-uniform.png"
        y="167"
-       id="image1010" />
+       id="clothes1-uniform" />
     <image
-       class="psd-layer pixel"
        height="1415"
+       inkscape:label="*いつもの服"
        width="445"
        x="306"
-       xlink:href="assets/5e8fa8d6c3f7110d6ffa30243c091bd2.png"
+       xlink:href="assets/clothes1-normal.png"
        y="167"
-       id="image1012" />
+       id="clothes1-normal" />
     <g
-       class="psd-layer group"
-       id="g1030">
+       inkscape:groupmode="layer"
+       inkscape:label="!左腕"
+       id="clothes1-larm">
       <image
-         class="psd-layer pixel"
          display="none"
-         height="1"
-         width="1"
-         x="0"
-         xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
-         y="0"
-         id="image1014" />
+         inkscape:label="*(非表示)"
+         id="clothes1-larm-none" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="286"
+         inkscape:label="*ひそひそ"
          width="157"
          x="527"
-         xlink:href="assets/744367e9e34ce20afbf8e26093b7263d.png"
+         xlink:href="assets/clothes1-larm-whispering.png"
          y="478"
-         id="image1016" />
+         id="clothes1-larm-whispering" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="255"
+         inkscape:label="*考える"
          width="205"
          x="470"
-         xlink:href="assets/58f49e41c7c0c5a64519cad615bfb836.png"
+         xlink:href="assets/clothes1-larm-thinking.png"
          y="537"
-         id="image1018" />
+         id="clothes1-larm-thinking" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="240"
+         inkscape:label="*苦しむ"
          width="158"
          x="514"
-         xlink:href="assets/87a5c9f707714e21e3b49d781138e92c.png"
+         xlink:href="assets/clothes1-larm-distressed.png"
          y="554"
-         id="image1020" />
+         id="clothes1-larm-distressed" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="257"
+         inkscape:label="*口元"
          width="195"
          x="512"
-         xlink:href="assets/c573556f4087159df433de1f76003e49.png"
+         xlink:href="assets/clothes1-larm-near-mouse.png"
          y="518"
-         id="image1022" />
+         id="clothes1-larm-near-mouse" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="457"
+         inkscape:label="*手を挙げる"
          width="291"
          x="585"
-         xlink:href="assets/ccad1c87ad5bc33968bd76bfb781d035.png"
+         xlink:href="assets/clothes1-larm-raised.png"
          y="322"
-         id="image1024" />
+         id="clothes1-larm-raised" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="332"
+         inkscape:label="*腰"
          width="182"
          x="583"
-         xlink:href="assets/45c1a4ddef7609aec7a4912fb2855ec4.png"
+         xlink:href="assets/clothes1-larm-on-hips.png"
          y="593"
-         id="image1026" />
+         id="clothes1-larm-on-hips" />
       <image
-         class="psd-layer pixel"
          height="475"
+         inkscape:label="*基本"
          width="171"
          x="591"
-         xlink:href="assets/159a5b58e40cc3613f7def8d5ca1cfa2.png"
+         xlink:href="assets/clothes1-larm-normal.png"
          y="600"
-         id="image1028" />
+         id="clothes1-larm-normal" />
     </g>
     <g
-       class="psd-layer group"
-       id="g1048">
+       inkscape:groupmode="layer"
+       inkscape:label="!右腕"
+       id="clothes1-rarm">
       <image
-         class="psd-layer pixel"
          display="none"
-         height="1"
-         width="1"
-         x="0"
-         xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
-         y="0"
-         id="image1032" />
+         inkscape:label="*(非表示)"
+         id="clothes1-rarm-none" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="320"
+         inkscape:label="*マイク"
          width="168"
          x="303"
-         xlink:href="assets/c9fea02cff0a4a4a92738a51b1adf524.png"
+         xlink:href="assets/clothes1-rarm-microphone.png"
          y="507"
-         id="image1034" />
+         id="clothes1-rarm-microphone" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="237"
+         inkscape:label="*指差し"
          width="226"
          x="244"
-         xlink:href="assets/9e7169ab505128183e4225e3b17a3b53.png"
+         xlink:href="assets/clothes1-rarm-pointing.png"
          y="593"
-         id="image1036" />
+         id="clothes1-rarm-pointing" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="252"
+         inkscape:label="*苦しむ"
          width="150"
          x="338"
-         xlink:href="assets/eb0dda93f70d74f1a4dd73e30469b6b5.png"
+         xlink:href="assets/clothes1-rarm-distressed.png"
          y="547"
-         id="image1038" />
+         id="clothes1-rarm-distressed" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="264"
+         inkscape:label="*口元"
          width="177"
          x="307"
-         xlink:href="assets/7d761a3baeaf452cfcba82d72eba439b.png"
+         xlink:href="assets/clothes1-rarm-near-mouse.png"
          y="521"
-         id="image1040" />
+         id="clothes1-rarm-near-mouse" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="451"
+         inkscape:label="*手を挙げる"
          width="292"
          x="181"
-         xlink:href="assets/03e274a0451ead02523818d9f8287425.png"
+         xlink:href="assets/clothes1-rarm-raised.png"
          y="315"
-         id="image1042" />
+         id="clothes1-rarm-raised" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="326"
+         inkscape:label="*腰"
          width="194"
          x="281"
-         xlink:href="assets/c21eff60f3bc3ac2c508f3d9a6a32d83.png"
+         xlink:href="assets/clothes1-rarm-on-hips.png"
          y="596"
-         id="image1044" />
+         id="clothes1-rarm-on-hips" />
       <image
-         class="psd-layer pixel"
          height="474"
+         inkscape:label="*基本"
          width="202"
          x="271"
-         xlink:href="assets/da210b48cc3def32d3f863b813204741.png"
+         xlink:href="assets/clothes1-rarm-normal.png"
          y="599"
-         id="image1046" />
+         id="clothes1-rarm-normal"
+         style="display:inline" />
     </g>
   </g>
   <g
-     class="psd-layer group"
-     id="g1078">
+     inkscape:groupmode="layer"
+     inkscape:label="!口"
+     id="mouse">
     <image
-       class="psd-layer pixel"
        height="61"
+       inkscape:label="*ほあー"
        width="66"
        x="460"
-       xlink:href="assets/e1fe30a520521a6e4c80360f1f3f599b.png"
+       xlink:href="assets/hoaa.png"
        y="474"
-       id="image1052" />
+       id="hoaa"
+       style="display:inline" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="44"
+       inkscape:label="*ほあ"
        width="60"
        x="466"
-       xlink:href="assets/4306a3c7302f5300b9e439c853f327eb.png"
+       xlink:href="assets/hoa.png"
        y="483"
-       id="image1054" />
+       id="hoa" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="39"
+       inkscape:label="*ほー"
        width="51"
        x="467"
-       xlink:href="assets/89ee49f286bce62122b8cea2919e02a2.png"
+       xlink:href="assets/ho.png"
        y="484"
-       id="image1056" />
+       id="ho" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="16"
+       inkscape:label="*むふ"
        width="58"
        x="466"
-       xlink:href="assets/3b76127118c4f517c368b7dc6a2b7913.png"
+       xlink:href="assets/mufu.png"
        y="496"
-       id="image1058" />
+       id="mufu" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="38"
+       inkscape:label="*△"
        width="37"
        x="478"
-       xlink:href="assets/a954ea6bdc4574ead0ee4be73aada79a.png"
+       xlink:href="assets/delta.png"
        y="480"
-       id="image1060" />
+       id="delta" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="48"
+       inkscape:label="*んあー"
        width="77"
        x="460"
-       xlink:href="assets/8f16568ea5458f51e710b5fe31c75f2e.png"
+       xlink:href="assets/na.png"
        y="482"
-       id="image1062" />
+       id="na" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="30"
+       inkscape:label="*んへー"
        width="71"
        x="462"
-       xlink:href="assets/6d287a9ada8d338c9541a4e4f00c5017.png"
+       xlink:href="assets/nhe.png"
        y="497"
-       id="image1064" />
+       id="nhe" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="15"
+       inkscape:label="*んー"
        width="68"
        x="463"
-       xlink:href="assets/e6ca81a1b6d31f713d661fabd1f7a07f.png"
+       xlink:href="assets/n.png"
        y="504"
-       id="image1066" />
+       id="n" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="43"
+       inkscape:label="*はへえ"
        width="56"
        x="472"
-       xlink:href="assets/1b6f8088e22ebc47a131d539f854e4f2.png"
+       xlink:href="assets/hahe.png"
        y="485"
-       id="image1068" />
+       id="hahe" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="61"
+       inkscape:label="*おほお"
        width="55"
        x="473"
-       xlink:href="assets/080e82b23e40adf5c6f736f3e460f4c6.png"
+       xlink:href="assets/oho.png"
        y="477"
-       id="image1070" />
+       id="oho" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="39"
+       inkscape:label="*お"
        width="33"
        x="480"
-       xlink:href="assets/50f129ce2879d87b241c41a921f88f21.png"
+       xlink:href="assets/o.png"
        y="487"
-       id="image1072" />
+       id="o" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="28"
+       inkscape:label="*ゆ"
        width="25"
        x="476"
-       xlink:href="assets/2a8850dd43fde3d4ba8f0b21be9e74cb.png"
+       xlink:href="assets/yu.png"
        y="488"
-       id="image1074" />
+       id="yu" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="29"
+       inkscape:label="*むー"
        width="43"
        x="475"
-       xlink:href="assets/261ef0ddefc8082370c43e30e4e16c2d.png"
+       xlink:href="assets/mu.png"
        y="483"
-       id="image1076" />
+       id="mu" />
   </g>
   <g
-     class="psd-layer group"
-     id="g1092">
+     inkscape:groupmode="layer"
+     inkscape:label="!顔色"
+     id="g506">
     <image
-       class="psd-layer pixel"
        display="none"
        height="150"
+       inkscape:label="かげり"
        width="276"
        x="362"
-       xlink:href="assets/78b66d7bb5538901d1694c02d2ac7889.png"
+       xlink:href="assets/complexion-dark.png"
        y="282"
-       id="image1080" />
+       id="complexion-dark" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="1"
+       inkscape:label="*(非表示)"
        width="1"
        x="0"
-       xlink:href="assets/0b0b49a6089daffae6d2eb6ee4c5a815.png"
+       xlink:href="assets/complexion-none.png"
        y="0"
-       id="image1082" />
+       id="complexion-none" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="132"
+       inkscape:label="*青ざめ"
        width="300"
        x="345"
-       xlink:href="assets/ff76529c9c17aeae9d3bb367fb13b452.png"
+       xlink:href="assets/complexion-pallid.png"
        y="376"
-       id="image1084" />
+       id="complexion-pallid" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="146"
+       inkscape:label="*ほっぺ赤め"
        width="283"
        x="357"
-       xlink:href="assets/4c16de132c2318c4568434dfad3729f4.png"
+       xlink:href="assets/cheek-blushing.png"
        y="382"
-       id="image1086" />
+       id="cheek-blushing" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="101"
+       inkscape:label="*ほっぺ2"
        width="279"
        x="362"
-       xlink:href="assets/a1b332c0c92c5423c7c3f7974bd93b19.png"
+       xlink:href="assets/cheek2.png"
        y="413"
-       id="image1088" />
+       id="cheek2" />
     <image
-       class="psd-layer pixel"
        height="51"
+       inkscape:label="*ほっぺ"
        width="271"
        x="363"
-       xlink:href="assets/e1513599be2085662e3748796725b3ae.png"
+       xlink:href="assets/cheek.png"
        y="433"
-       id="image1090" />
+       id="cheek"
+       style="display:inline" />
   </g>
   <g
-     class="psd-layer group"
-     id="g1148">
+     inkscape:groupmode="layer"
+     inkscape:label="!目"
+     id="eyes">
     <image
-       class="psd-layer pixel"
        display="none"
        height="84"
+       inkscape:label="*ぐるぐる"
        width="216"
        x="380"
-       xlink:href="assets/822038f159db115ec22f39e4270754a1.png"
+       xlink:href="assets/eyes-spiral.png"
        y="367"
-       id="image1094" />
+       id="eyes-spiral" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="84"
+       inkscape:label="*〇〇"
        width="218"
        x="382"
-       xlink:href="assets/169da5cde58c9454f9fa1d41f1c599b1.png"
+       xlink:href="assets/eyes-white.png"
        y="372"
-       id="image1096" />
+       id="eyes-white" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="85"
+       inkscape:label="*&gt;&lt;"
        width="234"
        x="373"
-       xlink:href="assets/33ef04d228487faa657dd33479e41764.png"
+       xlink:href="assets/eyes-crossed.png"
        y="372"
-       id="image1098" />
+       id="eyes-crossed" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="44"
+       inkscape:label="*UU"
        width="224"
        x="380"
-       xlink:href="assets/43c8d41057b991f8d0063eb2a13c0194.png"
+       xlink:href="assets/eyes-pensive.png"
        y="408"
-       id="image1100" />
+       id="eyes-pensive" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="48"
+       inkscape:label="*にっこり2"
        width="222"
        x="379"
-       xlink:href="assets/df6e748b11ed665c7937695febee8b4c.png"
+       xlink:href="assets/eyes-smiled2.png"
        y="396"
-       id="image1102" />
+       id="eyes-smiled2" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="33"
+       inkscape:label="*にっこり"
        width="231"
        x="376"
-       xlink:href="assets/bf75b6138f4546758936012e83c006f3.png"
+       xlink:href="assets/eyes-smiled.png"
        y="406"
-       id="image1104" />
+       id="eyes-smiled" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="40"
+       inkscape:label="*なごみ目"
        width="227"
        x="378"
-       xlink:href="assets/7b4a8ed18b6a771cefb1508d94ed62c4.png"
+       xlink:href="assets/eyes-clamed.png"
        y="397"
-       id="image1106" />
+       id="eyes-clamed" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="83"
+       inkscape:label="*ジト目"
        width="247"
        x="364"
-       xlink:href="assets/ff60976f2ee2f27174d887433d4d7d2f.png"
+       xlink:href="assets/eyes-scornful.png"
        y="369"
-       id="image1108" />
+       id="eyes-scornful" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="72"
+       inkscape:label="*細め目"
        width="250"
        x="368"
-       xlink:href="assets/692d02795963bda8d521889efd3a1ed0.png"
+       xlink:href="assets/eyes-squinting.png"
        y="372"
-       id="image1110" />
+       id="eyes-squinting" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="72"
+       inkscape:label="*細め目ハート"
        width="250"
        x="368"
-       xlink:href="assets/dac16451491e049fbe0526d60d1aec31.png"
+       xlink:href="assets/eyes-squinting-heart.png"
        y="372"
-       id="image1112" />
+       id="eyes-squinting-heart" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="110"
+       inkscape:label="*上向き3"
        width="249"
        x="367"
-       xlink:href="assets/237619513a8c4773568b4472f60de821.png"
+       xlink:href="assets/eyes-looking-up3.png"
        y="348"
-       id="image1114" />
+       id="eyes-looking-up3" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="110"
+       inkscape:label="*上向き2"
        width="249"
        x="367"
-       xlink:href="assets/5f25f8211e90ba9ed62093a268de6f8e.png"
+       xlink:href="assets/eyes-looking-up2.png"
        y="348"
-       id="image1116" />
+       id="eyes-looking-up2" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="110"
+       inkscape:label="*上向き"
        width="249"
        x="367"
-       xlink:href="assets/afb54cca052c538924549e01a8c7cb12.png"
+       xlink:href="assets/eyes-looking-up.png"
        y="348"
-       id="image1118" />
+       id="eyes-looking-up"
+       sodipodi:insensitive="true" />
     <g
-       class="psd-layer group"
-       id="g1146">
+       inkscape:groupmode="layer"
+       inkscape:label="*目セット"
+       id="eyes-set"
+       style="display:inline">
       <image
-         class="psd-layer pixel"
          display="none"
          height="118"
+         inkscape:label="*見開き白目"
          width="249"
          x="367"
-         xlink:href="assets/08922bd34120fbfe98137896217a7271.png"
+         xlink:href="assets/eyes-set-white-open.png"
          y="348"
-         id="image1120" />
+         id="eyes-set-white-open" />
       <image
-         class="psd-layer pixel"
          display="none"
          height="106"
+         inkscape:label="*ジト白目"
          width="256"
          x="363"
-         xlink:href="assets/e44624f076df9f2393bc3a93af133a92.png"
+         xlink:href="assets/eyes-set-white-scornful.png"
          y="352"
-         id="image1122" />
+         id="eyes-set-white-scornful" />
       <image
-         class="psd-layer pixel"
          height="107"
+         inkscape:label="*普通白目"
          width="250"
          x="366"
-         xlink:href="assets/709db1efbc83e67273e0f440c8b1973e.png"
+         xlink:href="assets/eyes-set-white-normal.png"
          y="351"
-         id="image1124" />
+         id="eyes-set-white-normal"
+         style="display:inline" />
       <g
-         class="psd-layer group"
-         id="g1144">
+         inkscape:groupmode="layer"
+         inkscape:label="!黒目"
+         id="iris">
         <image
-           class="psd-layer pixel"
            display="none"
            height="83"
+           inkscape:label="*目逸らし3"
            width="211"
            x="380"
-           xlink:href="assets/a19cb0d5f7777d6da6a9298845dce810.png"
+           xlink:href="assets/iris-away3.png"
            y="372"
-           id="image1126" />
+           id="iris-away3" />
         <image
-           class="psd-layer pixel"
            display="none"
            height="83"
+           inkscape:label="*目逸らし2"
            width="211"
            x="380"
-           xlink:href="assets/ae904af1d11237499511cb59fbd1afa5.png"
+           xlink:href="assets/iris-away2.png"
            y="372"
-           id="image1128" />
+           id="iris-away2" />
         <image
-           class="psd-layer pixel"
            display="none"
            height="83"
+           inkscape:label="*目逸らし"
            width="211"
            x="380"
-           xlink:href="assets/5e56a8aa42ec73f513d6060d778229aa.png"
+           xlink:href="assets/iris-away.png"
            y="372"
-           id="image1130" />
+           id="iris-away" />
         <image
-           class="psd-layer pixel"
            display="none"
            height="83"
+           inkscape:label="*カメラ目線3"
            width="212"
            x="391"
-           xlink:href="assets/a20940b8695ac218ddd6d4caf03a8507.png"
+           xlink:href="assets/iris-at-view3.png"
            y="372"
-           id="image1132" />
+           id="iris-at-view3" />
         <image
-           class="psd-layer pixel"
            display="none"
            height="83"
+           inkscape:label="*カメラ目線2"
            width="212"
            x="391"
-           xlink:href="assets/3afe20aa440464a778d449daa2f46dc5.png"
+           xlink:href="assets/iris-at-view2.png"
            y="372"
-           id="image1134" />
+           id="iris-at-view2" />
         <image
-           class="psd-layer pixel"
            display="none"
            height="83"
+           inkscape:label="*カメラ目線"
            width="212"
            x="391"
-           xlink:href="assets/2859a0a675c21be3277e1529195cf8d1.png"
+           xlink:href="assets/iris-at-view.png"
            y="372"
-           id="image1136" />
+           id="iris-at-view" />
         <image
-           class="psd-layer pixel"
            display="none"
            height="83"
+           inkscape:label="*普通目3"
            width="207"
            x="388"
-           xlink:href="assets/d51808e90b0f7ab74d88a70409011fb8.png"
+           xlink:href="assets/iris-normal3.png"
            y="372"
-           id="image1138" />
+           id="iris-normal3" />
         <image
-           class="psd-layer pixel"
            display="none"
            height="83"
+           inkscape:label="*普通目2"
            width="207"
            x="388"
-           xlink:href="assets/7938771466b537d85ec5b08f1b6f2bd1.png"
+           xlink:href="assets/iris-normal2.png"
            y="372"
-           id="image1140" />
+           id="iris-normal2" />
         <image
-           class="psd-layer pixel"
            height="83"
+           inkscape:label="*普通目"
            width="207"
            x="388"
-           xlink:href="assets/2f302e847f4c2f35c13d6beec53c9880.png"
+           xlink:href="assets/iris-normal.png"
            y="372"
-           id="image1142" />
+           id="iris-normal"
+           style="display:inline" />
       </g>
     </g>
   </g>
   <g
-     class="psd-layer group"
-     id="g1160">
+     inkscape:groupmode="layer"
+     inkscape:label="!眉"
+     id="eyebrows">
     <image
-       class="psd-layer pixel"
        display="none"
        height="48"
+       inkscape:label="*困り眉2"
        width="209"
        x="388"
-       xlink:href="assets/bc99c934f9eb5bc1313aad810a82b031.png"
+       xlink:href="assets/eyebrows-troubled2.png"
        y="281"
-       id="image1150" />
+       id="eyebrows-troubled2" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="24"
+       inkscape:label="*困り眉1"
        width="245"
        x="364"
-       xlink:href="assets/945e0a0e6f675148e7338af33afb0a50.png"
+       xlink:href="assets/eyebrows-troubled1.png"
        y="316"
-       id="image1152" />
+       id="eyebrows-troubled1" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="40"
+       inkscape:label="*上がり眉"
        width="215"
        x="386"
-       xlink:href="assets/189b793ea32288f72008ebffb34e0f1c.png"
+       xlink:href="assets/eyebrows-raised.png"
        y="293"
-       id="image1154" />
+       id="eyebrows-raised" />
     <image
-       class="psd-layer pixel"
        height="45"
+       inkscape:label="*怒り眉"
        width="209"
        x="386"
-       xlink:href="assets/0893f4c06ef76885d009e7ef7aa8f4ce.png"
+       xlink:href="assets/eyebrows-angry.png"
        y="285"
-       id="image1156" />
+       id="eyebrows-angry"
+       style="display:inline" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="18"
+       inkscape:label="*普通眉"
        width="216"
        x="383"
-       xlink:href="assets/0fc1be1cd741924d0c67e6925d24b106.png"
+       xlink:href="assets/eyebrows-normal.png"
        y="305"
-       id="image1158" />
+       id="eyebrows-normal" />
   </g>
   <g
-     class="psd-layer group"
-     id="g1168">
+     inkscape:groupmode="layer"
+     inkscape:label="!枝豆"
+     id="edamame">
     <image
-       class="psd-layer pixel"
        display="none"
        height="359"
+       inkscape:label="*枝豆萎え"
        width="580"
        x="235"
-       xlink:href="assets/a14921684091145b4072889364ad96fb.png"
+       xlink:href="assets/edamame-wilted.png"
        y="166"
-       id="image1162" />
+       id="edamame-wilted" />
     <image
-       class="psd-layer pixel"
        height="423"
+       inkscape:label="*枝豆通常"
        width="549"
        x="258"
-       xlink:href="assets/d99fc22ef2053643a012e5f12abab495.png"
+       xlink:href="assets/edamame-normal.png"
        y="109"
-       id="image1164" />
+       id="edamame-normal"
+       style="display:inline" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="930"
+       inkscape:label="*パーカー(裏地とセットで使用)"
        width="538"
        x="249"
-       xlink:href="assets/a0f82b9dff30cd6407c9a46170a01970.png"
+       xlink:href="assets/hoodie.png"
        y="161"
-       id="image1166" />
+       id="hoodie" />
   </g>
   <g
-     class="psd-layer group"
-     id="g1180">
+     inkscape:groupmode="layer"
+     inkscape:label="記号など"
+     id="signs">
     <image
-       class="psd-layer pixel"
        display="none"
        height="29"
+       inkscape:label="汗3"
        width="26"
        x="542"
-       xlink:href="assets/a4d11d07f08ebfeb794559e2e6e38d84.png"
+       xlink:href="assets/sweat3.png"
        y="522"
-       id="image1170" />
+       id="sweat3" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="24"
+       inkscape:label="汗2"
        width="20"
        x="397"
-       xlink:href="assets/92ae813fe781a15f7795eb6570d08d8a.png"
+       xlink:href="assets/sweat2.png"
        y="487"
-       id="image1172" />
+       id="sweat2" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="26"
+       inkscape:label="汗1"
        width="23"
        x="625"
-       xlink:href="assets/554653bb28286abecb5a59c79a648957.png"
+       xlink:href="assets/sweat1.png"
        y="345"
-       id="image1174" />
+       id="sweat1" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="29"
+       inkscape:label="涙"
        width="239"
        x="373"
-       xlink:href="assets/c099bc09699a6501b60cb94a456fd04f.png"
+       xlink:href="assets/tears.png"
        y="439"
-       id="image1176" />
+       id="tears" />
     <image
-       class="psd-layer pixel"
        display="none"
        height="116"
+       inkscape:label="アヒルちゃん"
        width="158"
        x="435"
-       xlink:href="assets/780f960dd3dbb44d3a6c2bc1c12169b8.png"
+       xlink:href="assets/duckling.png"
        y="87"
-       id="image1178" />
+       id="duckling" />
   </g>
 </svg>

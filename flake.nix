@@ -15,9 +15,8 @@
         formatter = pkgs.nixfmt;
 
         devShells.default = pkgs.mkShell {
-          packages = (with pkgs; [ editorconfig-checker nixfmt statix ]) ++ ([
-            psd2svg.packages."${system}".psd2svg
-          ]);
+          packages = (with pkgs; [ editorconfig-checker nixfmt statix python3 ])
+            ++ ([ psd2svg.packages."${system}".psd2svg ]);
         };
       });
 }
