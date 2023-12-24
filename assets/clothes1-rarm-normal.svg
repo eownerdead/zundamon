@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="202"
+   height="474"
+   viewBox="0 0 202 474"
+   sodipodi:docname="clothes1-rarm-normal.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style5"></style>
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="3.3839662"
+     inkscape:cx="34.870324"
+     inkscape:cy="339.54239"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="cloth">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <image
+     width="202"
+     height="474"
+     preserveAspectRatio="none"
+     style="display:none;opacity:1;mix-blend-mode:normal;image-rendering:optimizeSpeed"
+     xlink:href="clothes1-rarm-normal.png"
+     id="original" />
+  <g
+     inkscape:groupmode="layer"
+     id="arm">
+    <path
+       style="display:inline;fill:#ffaf90;fill-opacity:1;stroke:#483738;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11,471 c 3,0 16,-6 29,-29 v -17 z"
+       id="arm-back" />
+    <path
+       style="stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:5;stroke:#483738;fill:#ffaf90;display:inline;"
+       d="m 105,166 -13,46 c -39,79 -17,109 -48,173 0,0 -20,16 -24,24 -7,14 -17,41 -17,48 0,8.12126 5,14 8,14 13,0 3,-17 36,-50 -21,25 4,34 10,16 1.988858,-5.96657 15,-76 81,-157 2,-27 4,-75 13,-75 l -5,-35 z"
+       id="arm-fill" />
+    <path
+       style="fill:#fceed8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93,216 c -5,-1 -27,69 -21,69 6,0 13.188245,-33.37649 20,-47 1,-2 6,-21 1,-22 z"
+       id="arm-highlight1" />
+    <path
+       style="display:inline;fill:#fceed8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47,388 c 2,3 -16,21 -18,17 -2,-4 16,-20 18,-17 z"
+       id="arm-highlight2" />
+    <use
+       xlink:href="#arm-fill"
+       id="armstroke"
+       style="fill-opacity:0;display:inline;" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="cloth"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#b9b9c3;stroke:#483738;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 193.46119,4.9758233 C 149.81699,5.5188179 113.21974,49.440692 111.33607,88.361691 86.767856,118.43416 86.071103,133.5803 89.515878,145.88649 c -1.821539,14.03754 8.815187,17.68292 14.678392,18.69746 6.43751,11.61547 16.68067,14.66747 28.31619,10.9721 3.95797,3.89022 8.60802,6.33059 14.81348,5.5125 C 142.3075,89.102414 164.01957,40.73502 193.46119,4.9758233 Z"
+       id="cloth-fill" />
+    <path
+       style="fill:none;stroke:#f4f2ec;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 117.3096,98.39894 C 123.78791,103.13494 131,104 138,105"
+       id="cloth-highlight1" />
+    <path
+       style="fill:#f6f3ed;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91,150 c 2,-4 20,3 15,10 -5,7 -17,-6 -15,-10 z"
+       id="cloth-highlight2" />
+    <path
+       style="fill:#f6f3ed;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 111,161 c 5,-5 23.84773,7.3804 18,12 -5.84773,4.6196 -23,-7 -18,-12 z"
+       id="cloth-highlight3" />
+    <path
+       style="display:inline;fill:#f6f3ed;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136,174 c 0,-6 8,-4 8,1 0,5 -8,5 -8,-1 z"
+       id="cloth-highlight4"
+       class="outline" />
+    <use
+       xlink:href="#cloth-fill"
+       id="cloth-stroke"
+       style="display:inline;fill-opacity:0" />
+  </g>
+</svg>

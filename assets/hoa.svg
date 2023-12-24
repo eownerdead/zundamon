@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg19516"
+   width="60"
+   height="44"
+   viewBox="0 0 60 44"
+   sodipodi:docname="hoa.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19520" />
+  <sodipodi:namedview
+     id="namedview19518"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="15.170655"
+     inkscape:cx="16.5451"
+     inkscape:cy="22.082106"
+     inkscape:window-width="954"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g19522" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g19522">
+    <image
+       width="60"
+       height="44"
+       preserveAspectRatio="none"
+       style="display:none;image-rendering:optimizeSpeed"
+       xlink:href="hoa.png"
+       id="original" />
+    <path
+       style="display:inline;fill:#d17e7f;fill-opacity:1;stroke:#473738;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.980392"
+       d="m 24.362119,3.1291338 c 0,0 -13.971513,2.9093657 -18.4166018,7.4927462 C 4.0402865,12.586384 3.2748975,40.903978 32.585908,40.638773 58.29211,40.406184 59.807406,19.323163 53.179089,5.2202159 Z"
+       id="mouse" />
+  </g>
+</svg>

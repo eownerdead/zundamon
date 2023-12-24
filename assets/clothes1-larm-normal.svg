@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="171"
+   height="475"
+   viewBox="0 0 171 475"
+   sodipodi:docname="clothes1-larm-normal.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cloth-clip">
+      <path
+         d="M 28,164 C 17,88 38,84 4,4 H 126.06245 V 179.87484 L 28,180 Z"
+         id="path1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="2.387788"
+     inkscape:cx="29.525235"
+     inkscape:cy="135.27164"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="arm">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <image
+     width="171"
+     height="475"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     xlink:href="clothes1-larm-normal.png"
+     id="original" />
+  <g
+     inkscape:groupmode="layer"
+     id="arm"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#fceed8;stroke:#483738;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90,159 18,86 c 19,34 30,86 42,123 6.07137,18.72005 14,8 14,45 17,30 -33,79 -33,49 v -26 c -7.38186,3.69093 -18,-3 -21,-16 -7,-7 -10,-19 -6,-35 C 82,327 70,319 37,244 37,201 29,206 29,159 Z"
+       id="arm-fill" />
+    <path
+       style="fill:none;stroke:#ffaf90;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123,410 c 10,7 8,26 8,26"
+       id="arm-shadow3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffaf90;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 146,422 c 2,5 1,18 1,18"
+       id="arm-shadow4" />
+    <path
+       style="fill:#ffaf90;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161,402 c -17,14 10,23 -8,55 8,-8 22,-16 8,-55 z"
+       id="arm-shadow5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#483738;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 147,438 v 29"
+       id="arm-stroke2" />
+    <path
+       style="display:inline;fill:none;stroke:#483738;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 162,426 v 21"
+       id="arm-stroke3" />
+    <path
+       style="fill:#ffb597;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38,238 c 4,-45 0,-56 32,-67 l -41,-7 z"
+       id="arm-shadow1" />
+    <path
+       style="fill:#ffaf90;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90,234 c 5,7 21,14 10,-9 -11,-23 -15,2 -10,9 z"
+       id="arm-shadow2" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#arm-fill"
+       id="arm-stroke"
+       style="display:inline;fill-opacity:0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="cloth">
+    <path
+       style="display:inline;fill:#f6f3ed;stroke:#483738;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4,4 c 54,8 75,35 75,90 0,0 20,21 13,52 3,9 3,9 -4,15 -10.135293,10.19205 -18.741543,11.85505 -26,6 -9,4 -16.400593,9.3115 -27,-4 -1.521105,2.57406 -4.521833,2.46539 -7,1"
+       id="cloth-fill"
+       clip-path="url(#cloth-clip)" />
+    <path
+       style="display:inline;fill:#b9b9c3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4,4 c 0,16 2,37 7,50 1.480109,3.848283 6,5 6,0 C 17,8.9888903 46,30 49,27 54,22 24,5 4,4 Z"
+       id="cloth-shadow1" />
+    <path
+       style="display:inline;fill:#b9b9c3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 18,44 c 0,0 14,17 14,24 0,6 -3,-2 -6,16 z"
+       id="cloth-shadow2" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b9b9c3;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23,90 c 3,7 2,24 2,24"
+       id="cloth-shadow3" />
+    <path
+       style="display:inline;fill:none;stroke:#b9b9c3;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27,136 c 2,6 1,21 1,21"
+       id="cloth-shadow4" />
+    <path
+       style="display:inline;fill:none;stroke:#b9b9c3;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 41,155 c 15.056522,5.7339 24.319425,2.08824 35,-1"
+       id="cloth-shadow5" />
+    <use
+       xlink:href="#cloth-fill"
+       id="cloth-stroke"
+       style="display:inline;fill-opacity:0" />
+  </g>
+</svg>

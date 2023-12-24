@@ -6,12 +6,31 @@
    width="1082"
    id="zundamon"
    sodipodi:docname="zundamon.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21017"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.2884848"
+     inkscape:cx="549.92719"
+     inkscape:cy="384.53391"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="iris" />
   <defs
      id="defs954" />
   <image
@@ -19,9 +38,19 @@
      inkscape:label="尻尾的なアレ"
      width="386"
      x="578"
+     xlink:href="assets/tail.svg"
+     y="555"
+     id="tail"
+     style="display:inline" />
+  <image
+     height="255"
+     inkscape:label="尻尾的なアレ"
+     width="386"
+     x="578"
      xlink:href="assets/tail.png"
      y="555"
-     id="tail" />
+     id="tail-original"
+     style="display:none" />
   <image
      display="none"
      height="457"
@@ -252,7 +281,7 @@
        inkscape:label="*いつもの服"
        width="445"
        x="306"
-       xlink:href="assets/clothes1-normal.png"
+       xlink:href="assets/clothes1-normal.svg"
        y="167"
        id="clothes1-normal" />
     <g
@@ -322,7 +351,7 @@
          inkscape:label="*基本"
          width="171"
          x="591"
-         xlink:href="assets/clothes1-larm-normal.png"
+         xlink:href="assets/clothes1-larm-normal.svg"
          y="600"
          id="clothes1-larm-normal" />
     </g>
@@ -393,7 +422,7 @@
          inkscape:label="*基本"
          width="202"
          x="271"
-         xlink:href="assets/clothes1-rarm-normal.png"
+         xlink:href="assets/clothes1-rarm-normal.svg"
          y="599"
          id="clothes1-rarm-normal"
          style="display:inline" />
@@ -408,10 +437,19 @@
        inkscape:label="*ほあー"
        width="66"
        x="460"
-       xlink:href="assets/hoaa.png"
+       xlink:href="assets/hoaa.svg"
        y="474"
        id="hoaa"
        style="display:inline" />
+    <image
+       height="61"
+       inkscape:label="*ほあー"
+       width="66"
+       x="460"
+       xlink:href="assets/hoaa.png"
+       y="474"
+       id="hoaa-original"
+       style="display:none" />
     <image
        display="none"
        height="44"
@@ -575,7 +613,7 @@
        inkscape:label="*ほっぺ"
        width="271"
        x="363"
-       xlink:href="assets/cheek.png"
+       xlink:href="assets/cheek.svg"
        y="433"
        id="cheek"
        style="display:inline" />
@@ -730,7 +768,7 @@
          inkscape:label="*普通白目"
          width="250"
          x="366"
-         xlink:href="assets/eyes-set-white-normal.png"
+         xlink:href="assets/eyes-set-white-normal.svg"
          y="351"
          id="eyes-set-white-normal"
          style="display:inline" />
@@ -815,7 +853,7 @@
            inkscape:label="*普通目"
            width="207"
            x="388"
-           xlink:href="assets/iris-normal.png"
+           xlink:href="assets/iris-normal.svg"
            y="372"
            id="iris-normal"
            style="display:inline" />
@@ -858,7 +896,7 @@
        inkscape:label="*怒り眉"
        width="209"
        x="386"
-       xlink:href="assets/eyebrows-angry.png"
+       xlink:href="assets/eyebrows-angry.svg"
        y="285"
        id="eyebrows-angry"
        style="display:inline" />
@@ -890,7 +928,7 @@
        inkscape:label="*枝豆通常"
        width="549"
        x="258"
-       xlink:href="assets/edamame-normal.png"
+       xlink:href="assets/edamame-normal.svg"
        y="109"
        id="edamame-normal"
        style="display:inline" />
