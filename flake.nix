@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.11";
     utils.url = "github:numtide/flake-utils";
     psd2svg = {
       url = "github:eownerdead/psd2svg";
@@ -15,8 +15,14 @@
         formatter = pkgs.nixfmt;
 
         devShells.default = pkgs.mkShell {
-          packages = (with pkgs; [ editorconfig-checker nixfmt statix python3 ])
-            ++ ([ psd2svg.packages."${system}".psd2svg ]);
+          packages = (with pkgs; [
+            editorconfig-checker
+            nixfmt
+            statix
+            python3
+            ruff
+            markdownlint-cli2
+          ]) ++ [ psd2svg.packages."${system}".psd2svg ];
         };
       });
 }
