@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="30.759145"
-     inkscape:cy="341.53257"
-     inkscape:window-width="1920"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="130.5"
+     inkscape:cy="79.999998"
+     inkscape:window-width="960"
      inkscape:window-height="1043"
-     inkscape:window-x="0"
+     inkscape:window-x="960"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="shirt"
+     inkscape:current-layer="svg1798"
      showguides="true">
     <inkscape:grid
        type="xygrid"
@@ -77,7 +77,7 @@
      width="445"
      height="1415"
      preserveAspectRatio="none"
-     style="display:none;fill:#a490b3;fill-opacity:1;stroke:none;stroke-width:18.898;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeSpeed"
+     style="display:inline;fill:#a490b3;fill-opacity:1;stroke:none;stroke-width:18.898;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeSpeed;opacity:1"
      xlink:href="clothes1-normal.png"
      id="image1806"
      inkscape:label="original"
@@ -627,7 +627,7 @@
        inkscape:label="shadow8" />
     <path
        style="display:inline;fill:#93bba9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 25,158 c 35,-56 70,-67 55,-66 21,-38 62,-59 66,-55 2.23607,2.236069 -10.28992,21.816531 -14,28 -3,5 2.06235,8.040334 5.34887,2.890978 C 166,23 221,3 253,34 c 29.95756,-2.050655 55.01103,2.027254 95,25 2.04373,1.174075 5.14705,-0.493261 3,-2 C 170.463,-69.695943 11.943277,107.30855 25,158 Z"
+       d="m 22,158 c 35,-56 73,-67 58,-66 21,-38 62,-59 66,-55 2.23607,2.236069 -10.28992,21.816531 -14,28 -3,5 2.06235,8.040334 5.34887,2.890978 C 166,23 221,3 253,34 c 29.95756,-2.050655 55.01103,2.027254 95,25 2.04373,1.174075 5.14705,-0.493261 3,-2 C 170.463,-69.695943 14,110 22,158 Z"
        id="path41"
        sodipodi:nodetypes="ccssscssc"
        inkscape:label="shadow1" />
