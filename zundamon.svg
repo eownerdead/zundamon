@@ -43,15 +43,6 @@
      id="tail"
      style="display:inline" />
   <image
-     height="255"
-     inkscape:label="尻尾的なアレ"
-     width="386"
-     x="578"
-     xlink:href="assets/tail.png"
-     y="555"
-     id="tail-original"
-     style="display:none" />
-  <image
      display="none"
      height="457"
      inkscape:label="パーカー裏地"
@@ -441,15 +432,6 @@
        y="474"
        id="hoaa"
        style="display:inline" />
-    <image
-       height="61"
-       inkscape:label="*ほあー"
-       width="66"
-       x="460"
-       xlink:href="assets/hoaa.png"
-       y="474"
-       id="hoaa-original"
-       style="display:none" />
     <image
        display="none"
        height="44"
