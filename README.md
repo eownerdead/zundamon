@@ -1,6 +1,6 @@
 # 🫛 坂本アヒル「[ずんだもん立ち絵素材](https://seiga.nicovideo.jp/seiga/im10788496)」のヴェクター化 🫛
 
-[プレビュー](https://cdn.jsdelivr.net/gh/eownerdead/veczun@dev/zundamon.svg)
+[壁紙](https://cdn.jsdelivr.net/gh/eownerdead/veczun@dev/wallpaper.svg)
 
 ## 🔨 作業工程
 
