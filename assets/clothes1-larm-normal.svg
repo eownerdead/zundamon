@@ -35,14 +35,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="2.387788"
-     inkscape:cx="29.525235"
-     inkscape:cy="135.27164"
+     inkscape:cx="29.734633"
+     inkscape:cy="202.27926"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="arm">
+     inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -66,7 +66,7 @@
      width="171"
      height="475"
      preserveAspectRatio="none"
-     style="image-rendering:optimizeSpeed"
+     style="display:none;image-rendering:optimizeSpeed"
      xlink:href="clothes1-larm-normal.png"
      id="original" />
   <g
