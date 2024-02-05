@@ -6,11 +6,11 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1705779876,
-        "narHash": "sha256-1/mNtN8MvV6qje/eE7Y2KtOxwMi4o8jca5HjaoFbBrE=",
+        "lastModified": 1707164207,
+        "narHash": "sha256-QoShzk55MpFekZBbmAkktYe5HZFncrZfWfGVlNgisB8=",
         "ref": "refs/heads/main",
-        "rev": "0c81810c8729c81ae2e90ef051dd82e760b989ce",
-        "revCount": 8,
+        "rev": "a533d0eece37cf0b723b7c8cf245de39f4bf4e14",
+        "revCount": 9,
         "type": "git",
         "url": "https://codeberg.org/eownerdead/mame"
       },

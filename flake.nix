@@ -17,6 +17,12 @@
 
         packages.readmePage = mame.lib."${system}".renderPage {
           src = ./README.md;
+          extraInputs = with pkgs; [ python3 nodePackages.svgo ];
+          postBuild = with pkgs; ''
+            cd ${./.}
+            python3 ${./embed_href.py} < ${./wallpaper.svg} |
+              svgo --config ${./svgo.config.js} - > $out/wallpaper.svg
+          '';
         };
 
         devShells.default = pkgs.mkShell {
@@ -27,6 +33,7 @@
             python3
             ruff
             markdownlint-cli2
+            nodePackages.svgo
           ]) ++ [ psd2svg.packages."${system}".psd2svg ];
         };
       });
