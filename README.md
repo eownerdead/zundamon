@@ -1,6 +1,10 @@
 # 🫛 坂本アヒル「[ずんだもん立ち絵素材](https://seiga.nicovideo.jp/seiga/im10788496)」のヴェクター (SVG) 化
 
 ![壁紙](https://eownerdead.github.io/zundamon/wallpaper.svg)
+[SVG](https://eownerdead.github.io/zundamon/wallpaper.svg)
+[PNG 1920x1080](https://eownerdead.github.io/zundamon/wallpaper-1920x1080.png)
+[PNG 4096x2160](https://eownerdead.github.io/zundamon/wallpaper-4096x2160.png)
+[PNG 7680x4320](https://eownerdead.github.io/zundamon/wallpaper-7680x4320.png)
 
 ## 🔨 作業工程
 

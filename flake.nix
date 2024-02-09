@@ -17,11 +17,16 @@
 
         packages.readmePage = mame.lib."${system}".renderPage {
           src = ./README.md;
-          extraInputs = with pkgs; [ python3 nodePackages.svgo ];
+          extraInputs = with pkgs; [ python3 nodePackages.svgo librsvg ];
           postBuild = with pkgs; ''
             cd ${./.}
             python3 ${./embed_href.py} < ${./wallpaper.svg} |
               svgo --config ${./svgo.config.js} - > $out/wallpaper.svg
+            for i in 1 2 4; do
+              rsvg-convert -z $i \
+                --output=$out/wallpaper-$((1920*i))x$((1080*i)).png \
+                $out/wallpaper.svg
+            done
           '';
         };
 
